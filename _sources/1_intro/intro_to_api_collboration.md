@@ -7,3 +7,4 @@
 ## 参考资料
 
 - [What is API collaboration?](https://www.postman.com/api-platform/api-collaboration/)
+- [RESTful API 设计指南](https://www.ruanyifeng.com/blog/2014/05/restful_api.html)
